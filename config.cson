@@ -1,0 +1,14 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-light-ui"
+      "atom-light-syntax"
+    ]
+  editor:
+    fontSize: 18
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "06d28206-7de3-5fd8-19ec-bab3094334ff"
+  welcome:
+    showOnStartup: false
